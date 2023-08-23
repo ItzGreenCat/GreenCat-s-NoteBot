@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.greencat.notebot.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "InteractionManagerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
